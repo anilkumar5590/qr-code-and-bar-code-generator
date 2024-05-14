@@ -55,7 +55,7 @@ Contributions to enhance and improve this application are welcome! If you have s
 
 
 ## Preview
-[Checkout Here]()
+[Checkout Here](https://qr-code-and-bar-code-generator-by-anil97.streamlit.app/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarkonathala/)
